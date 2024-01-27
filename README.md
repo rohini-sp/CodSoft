@@ -3,6 +3,7 @@ CODSOFT INTERNSHIP
 
 
 -------------Artificial Intelligence----------------
+
 #TASK 1
 Chatbot with Rule-Based Responses:
   -Used random module
