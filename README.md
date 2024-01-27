@@ -22,6 +22,7 @@ Face Detection and Recognition
 
 
 -------------Python Programming----------------  
+
 #TASK 1
 To-Do List
   -A to-do list application to help users manage and organize their tasks
